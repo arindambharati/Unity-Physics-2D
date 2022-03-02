@@ -2,7 +2,7 @@ You've learnt about colliders and triggers till now.
 
 ![Congrats](https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif)
 
-Here, you will learn about the functions used for the collision and triggering any object.  
+Here, you will learn about the functions used for the collision and triggering any object. 
 
 
 First, let's see what are functions to be used for the collision.
